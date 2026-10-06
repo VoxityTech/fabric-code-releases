@@ -5,7 +5,7 @@
 ██╔══╝  ██╔══██║██╔══██╗██╔══██╗██║██║        ██║     ██║   ██║██║  ██║██╔══╝
 ██║     ██║  ██║██████╔╝██║  ██║██║╚██████╗   ╚██████╗╚██████╔╝██████╔╝███████╗
 ╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-                                                         BY VOXITY TECHNOLOGIES
+                                                                 BY VOXITY TECH
 ```
 
 # Fabric Code releases
@@ -35,4 +35,8 @@ Documentation: [simfabric.dev/docs/code](https://simfabric.dev/docs/code) · Pla
 - `install`: the installer that `simfabric.dev/install` serves.
 - [Releases](https://github.com/VoxityTech/fabric-code-releases/releases): the CLI and desktop builds that the installer, `fabric upgrade` and the desktop app's auto-update download.
 
-The source code is developed privately by [Voxity Technologies](https://voxity.org).
+The source code is developed privately.
+
+---
+
+**Fabric Code** · by [Voxity Tech](https://voxity.org)
